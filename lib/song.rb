@@ -36,5 +36,6 @@ class Song
     @@artists.each do |artist|
       hash[artist] += 1
     end
+    hash
   end
 end
