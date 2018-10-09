@@ -32,6 +32,6 @@ class Song
   end
   
   def self.artists_count
-    
+    hash = Hash.new(0)
   end
 end
