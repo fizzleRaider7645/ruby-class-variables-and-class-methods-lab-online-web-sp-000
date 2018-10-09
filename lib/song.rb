@@ -24,6 +24,6 @@ class Song
   end
   
   def self.genre_count
-    p @@genres.class
+    
   end
 end
